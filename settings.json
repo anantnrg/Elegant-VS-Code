@@ -53,7 +53,7 @@
   "breadcrumbs.enabled": false,
   // Hides the ugly menu bar
   "window.menuBarVisibility": "hidden", 
-  // Don't know what this does, lol
+  // Hide the layout bar
   "workbench.layoutControl.enabled": false,
   // Sets the window title 
   "window.title": "${dirty}${activeEditorShort}",
